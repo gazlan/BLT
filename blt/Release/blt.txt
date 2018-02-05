@@ -1,0 +1,7 @@
+-*-   BLT 1.0   *   Copyright (c) Gazlan, 2015   -*-
+
+Baby Language Translator
+
+Usage: blt.com [wildcards]
+
+complains_n_suggestions direct to gazlan@yandex.ru
